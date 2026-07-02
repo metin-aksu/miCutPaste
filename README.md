@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" alt="miCutPaste icon" width="160">
+</p>
+
 # miCutPaste
 
 🇹🇷 [Türkçe açıklama için tıklayın](#micutpaste-türkçe)
@@ -39,16 +43,34 @@ Unlike Finder's copy-then-`⌘⌥V` dance, this is a real cut/paste workflow: th
 ### Homebrew
 
 ```bash
-brew install --cask metinaksu/tap/micutpaste
+brew install --cask metin-aksu/tap/micutpaste
+```
+
+Since the app is not notarized, macOS may warn you on first launch — see [the warning section](#cannot-verify-the-developer-warning) below.
+
+If Homebrew refuses to load the tap because tap trust is required on your setup (`HOMEBREW_REQUIRE_TAP_TRUST` is set), trust it first:
+
+```bash
+brew trust --tap metin-aksu/tap
 ```
 
 ### Manual
 
-1. Download the latest `.dmg` from [Releases](https://github.com/metinaksu/miCutPaste/releases).
+1. Download the latest `.dmg` from [Releases](https://github.com/metin-aksu/miCutPaste/releases).
 2. Drag **miCutPaste.app** into **Applications** and launch it once.
 3. Enable the extension: **System Settings → General → Login Items & Extensions → Finder** (the app's *Open Extension Settings* button takes you there).
 
 That's it. The extension is loaded by Finder itself — the app doesn't need to stay running, and it survives reboots.
+
+### "Cannot verify the developer" warning
+
+The app is code-signed but not notarized by Apple, so on first launch macOS may show a warning such as *"miCutPaste cannot be opened because Apple cannot check it for malicious software."* To clear it, remove the quarantine flag after copying the app into Applications:
+
+```bash
+xattr -dr com.apple.quarantine /Applications/miCutPaste.app
+```
+
+Then launch the app normally. Alternatively: right-click the app → **Open** → **Open**, or allow it under **System Settings → Privacy & Security**.
 
 ## Known limitation: iCloud-managed folders
 
@@ -125,16 +147,34 @@ Finder'ın kopyala-sonra-`⌘⌥V` yönteminin aksine bu gerçek bir kes/yapış
 ### Homebrew
 
 ```bash
-brew install --cask metinaksu/tap/micutpaste
+brew install --cask metin-aksu/tap/micutpaste
+```
+
+Uygulama notarize edilmediği için macOS ilk açılışta uyarı gösterebilir — aşağıdaki [uyarı bölümüne](#geliştirici-doğrulanamıyor-uyarısı) bakın.
+
+Kurulumunuzda tap güveni zorunluysa (`HOMEBREW_REQUIRE_TAP_TRUST` ayarlıysa) ve Homebrew tap'i yüklemeyi reddederse, önce tap'i güvenilir olarak işaretleyin:
+
+```bash
+brew trust --tap metin-aksu/tap
 ```
 
 ### Elle kurulum
 
-1. [Releases](https://github.com/metinaksu/miCutPaste/releases) sayfasından en son `.dmg` dosyasını indirin.
+1. [Releases](https://github.com/metin-aksu/miCutPaste/releases) sayfasından en son `.dmg` dosyasını indirin.
 2. **miCutPaste.app**'i **Applications** klasörüne sürükleyin ve bir kez çalıştırın.
 3. Eklentiyi etkinleştirin: **Sistem Ayarları → Genel → Oturum Açma Öğeleri ve Uzantılar → Finder** (uygulamadaki *Uzantı Ayarlarını Aç* düğmesi sizi oraya götürür).
 
 Hepsi bu. Eklentiyi Finder'ın kendisi yükler — uygulamanın açık kalmasına gerek yoktur ve yeniden başlatmalardan etkilenmez.
+
+### "Geliştirici doğrulanamıyor" uyarısı
+
+Uygulama kod imzalıdır ancak Apple tarafından notarize edilmemiştir; bu yüzden ilk açılışta macOS *"miCutPaste açılamıyor çünkü Apple onu kötü amaçlı yazılım açısından denetleyemiyor."* benzeri bir uyarı gösterebilir. Uyarıyı kaldırmak için uygulamayı Applications klasörüne kopyaladıktan sonra karantina işaretini silin:
+
+```bash
+xattr -dr com.apple.quarantine /Applications/miCutPaste.app
+```
+
+Ardından uygulamayı normal şekilde açın. Alternatif olarak: uygulamaya sağ tıklayıp **Aç** → **Aç** deyin veya **Sistem Ayarları → Gizlilik ve Güvenlik** bölümünden izin verin.
 
 ## Bilinen kısıt: iCloud tarafından yönetilen klasörler
 

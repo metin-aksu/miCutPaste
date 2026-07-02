@@ -36,3 +36,4 @@ xcuserdata/
 # Tooling caches
 .idea/
 .vscode/
+dist/

@@ -12,6 +12,12 @@ settings:
     DEVELOPMENT_TEAM: Y5K2497B6G
     MARKETING_VERSION: "1.0"
     CURRENT_PROJECT_VERSION: "1"
+    # Distribution requirements: no debug entitlements, secure timestamp,
+    # universal binary (Apple Silicon + Intel).
+    CODE_SIGN_INJECT_BASE_ENTITLEMENTS: NO
+    OTHER_CODE_SIGN_FLAGS: "--timestamp"
+    ARCHS: "arm64 x86_64"
+    ONLY_ACTIVE_ARCH: NO
 targets:
   miCutPaste:
     type: application
