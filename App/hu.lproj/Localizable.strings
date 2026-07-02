@@ -1,0 +1,5 @@
+"app_description" = "A Finder helyi menüjét kiegészíti a „Kivágás innen” és a „Beillesztés ide” parancsokkal, így a fájlokat és mappákat másolás helyett áthelyezheti.";
+"step_enable" = "Kapcsolja be a miCutPaste bővítményt a Rendszerbeállításokban.";
+"step_cut" = "Kattintson jobb gombbal egy fájlra vagy mappára, és válassza a „Kivágás innen” lehetőséget.";
+"step_paste" = "Kattintson jobb gombbal a célmappa üres területére, és válassza a „Beillesztés ide” lehetőséget.";
+"open_extension_settings" = "Bővítménybeállítások megnyitása";

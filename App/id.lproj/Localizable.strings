@@ -1,0 +1,5 @@
+"app_description" = "Menambahkan “Potong dari sini” dan “Tempel di sini” ke menu klik kanan Finder, agar Anda memindahkan file dan folder alih-alih menyalinnya.";
+"step_enable" = "Aktifkan ekstensi miCutPaste di Pengaturan Sistem.";
+"step_cut" = "Klik kanan file atau folder dan pilih “Potong dari sini”.";
+"step_paste" = "Klik kanan area kosong folder tujuan dan pilih “Tempel di sini”.";
+"open_extension_settings" = "Buka pengaturan ekstensi";

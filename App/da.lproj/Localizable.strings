@@ -1,0 +1,5 @@
+"app_description" = "Føjer “Klip herfra” og “Sæt ind her” til Finders kontekstmenu, så du flytter filer og mapper i stedet for at kopiere dem.";
+"step_enable" = "Slå miCutPaste-udvidelsen til i Systemindstillinger.";
+"step_cut" = "Højreklik på en fil eller mappe, og vælg “Klip herfra”.";
+"step_paste" = "Højreklik på et tomt område i destinationsmappen, og vælg “Sæt ind her”.";
+"open_extension_settings" = "Åbn udvidelsesindstillinger";

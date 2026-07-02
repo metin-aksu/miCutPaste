@@ -1,0 +1,5 @@
+"app_description" = "Adiciona “Recortar daqui” e “Colar aqui” ao menu de contexto do Finder, para mover arquivos e pastas em vez de copiá-los.";
+"step_enable" = "Ative a extensão miCutPaste nos Ajustes do Sistema.";
+"step_cut" = "Clique com o botão direito em um arquivo ou pasta e escolha “Recortar daqui”.";
+"step_paste" = "Clique com o botão direito em uma área vazia da pasta de destino e escolha “Colar aqui”.";
+"open_extension_settings" = "Abrir ajustes de extensões";

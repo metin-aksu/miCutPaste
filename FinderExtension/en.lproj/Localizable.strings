@@ -1,0 +1,5 @@
+/* Context menu item that marks the selected files to be moved */
+"cut_here" = "Cut from Here";
+
+/* Context menu item that moves the previously cut files into the current folder */
+"paste_here" = "Paste Here";

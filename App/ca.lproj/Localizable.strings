@@ -1,0 +1,5 @@
+"app_description" = "Afegeix “Retalla d’aquí” i “Enganxa aquí” al menú contextual del Finder, per moure arxius i carpetes en lloc de copiar-los.";
+"step_enable" = "Activa l’extensió miCutPaste a Configuració del Sistema.";
+"step_cut" = "Fes clic dret en un arxiu o carpeta i tria “Retalla d’aquí”.";
+"step_paste" = "Fes clic dret en una àrea buida de la carpeta de destinació i tria “Enganxa aquí”.";
+"open_extension_settings" = "Obre la configuració de les extensions";

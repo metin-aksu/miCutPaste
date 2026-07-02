@@ -1,0 +1,7 @@
+"app_description" = "Adds “Cut from Here” and “Paste Here” to Finder's right-click menu, so you can move files and folders instead of copying them.";
+
+"step_enable" = "Enable the miCutPaste extension in System Settings.";
+"step_cut" = "Right-click a file or folder and choose “Cut from Here”.";
+"step_paste" = "Right-click the empty area of the destination folder and choose “Paste Here”.";
+
+"open_extension_settings" = "Open Extension Settings";

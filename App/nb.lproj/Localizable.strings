@@ -1,0 +1,5 @@
+"app_description" = "Legger til «Klipp ut herfra» og «Lim inn her» i Finders kontekstmeny, slik at du flytter filer og mapper i stedet for å kopiere dem.";
+"step_enable" = "Slå på miCutPaste-utvidelsen i Systeminnstillinger.";
+"step_cut" = "Høyreklikk på en fil eller mappe og velg «Klipp ut herfra».";
+"step_paste" = "Høyreklikk på et tomt område i målmappen og velg «Lim inn her».";
+"open_extension_settings" = "Åpne utvidelsesinnstillinger";

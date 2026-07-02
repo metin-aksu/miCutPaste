@@ -1,0 +1,5 @@
+"app_description" = "Voegt “Knip vanaf hier” en “Plak hier” toe aan het contextmenu van de Finder, zodat je bestanden en mappen verplaatst in plaats van kopieert.";
+"step_enable" = "Schakel de miCutPaste-extensie in via Systeeminstellingen.";
+"step_cut" = "Klik met de rechtermuisknop op een bestand of map en kies “Knip vanaf hier”.";
+"step_paste" = "Klik met de rechtermuisknop op een leeg gedeelte van de doelmap en kies “Plak hier”.";
+"open_extension_settings" = "Open extensie-instellingen";

@@ -1,0 +1,5 @@
+"app_description" = "在 Finder 的右鍵選單中加入「從此處剪下」和「貼上到此處」，讓你移動檔案和資料夾，而不是拷貝它們。";
+"step_enable" = "在系統設定中啟用 miCutPaste 延伸功能。";
+"step_cut" = "在檔案或資料夾上按右鍵，選擇「從此處剪下」。";
+"step_paste" = "在目標資料夾的空白區域按右鍵，選擇「貼上到此處」。";
+"open_extension_settings" = "打開延伸功能設定";

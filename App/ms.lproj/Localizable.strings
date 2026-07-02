@@ -1,0 +1,5 @@
+"app_description" = "Menambah “Potong dari sini” dan “Tampal di sini” pada menu klik kanan Finder, supaya anda memindahkan fail dan folder dan bukannya menyalinnya.";
+"step_enable" = "Aktifkan sambungan miCutPaste dalam Seting Sistem.";
+"step_cut" = "Klik kanan pada fail atau folder dan pilih “Potong dari sini”.";
+"step_paste" = "Klik kanan pada kawasan kosong folder destinasi dan pilih “Tampal di sini”.";
+"open_extension_settings" = "Buka seting sambungan";

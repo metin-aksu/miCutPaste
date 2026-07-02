@@ -1,0 +1,5 @@
+"app_description" = "Lisää Finderin kontekstivalikkoon ”Leikkaa täältä”- ja ”Sijoita tähän” -toiminnot, joilla siirrät tiedostoja ja kansioita kopioimisen sijaan.";
+"step_enable" = "Ota miCutPaste-laajennus käyttöön Järjestelmäasetuksissa.";
+"step_cut" = "Napsauta tiedostoa tai kansiota hiiren kakkospainikkeella ja valitse ”Leikkaa täältä”.";
+"step_paste" = "Napsauta kohdekansion tyhjää aluetta hiiren kakkospainikkeella ja valitse ”Sijoita tähän”.";
+"open_extension_settings" = "Avaa laajennusasetukset";

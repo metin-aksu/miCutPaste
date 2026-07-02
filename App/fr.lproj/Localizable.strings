@@ -1,0 +1,5 @@
+"app_description" = "Ajoute « Couper d’ici » et « Coller ici » au menu contextuel du Finder, pour déplacer vos fichiers et dossiers au lieu de les copier.";
+"step_enable" = "Activez l’extension miCutPaste dans Réglages Système.";
+"step_cut" = "Cliquez avec le bouton droit sur un fichier ou un dossier et choisissez « Couper d’ici ».";
+"step_paste" = "Cliquez avec le bouton droit sur une zone vide du dossier de destination et choisissez « Coller ici ».";
+"open_extension_settings" = "Ouvrir les réglages des extensions";

@@ -1,0 +1,5 @@
+"app_description" = "Adaugă „Decupează de aici” și „Lipește aici” în meniul contextual din Finder, ca să muți fișierele și dosarele în loc să le copiezi.";
+"step_enable" = "Activează extensia miCutPaste din Configurări sistem.";
+"step_cut" = "Fă clic dreapta pe un fișier sau dosar și alege „Decupează de aici”.";
+"step_paste" = "Fă clic dreapta pe o zonă liberă din dosarul destinație și alege „Lipește aici”.";
+"open_extension_settings" = "Deschide configurările extensiilor";

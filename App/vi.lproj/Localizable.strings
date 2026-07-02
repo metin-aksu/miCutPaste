@@ -1,0 +1,5 @@
+"app_description" = "Thêm “Cắt từ đây” và “Dán vào đây” vào menu chuột phải của Finder, để bạn di chuyển tệp và thư mục thay vì sao chép.";
+"step_enable" = "Bật tiện ích mở rộng miCutPaste trong Cài đặt Hệ thống.";
+"step_cut" = "Nhấp chuột phải vào tệp hoặc thư mục và chọn “Cắt từ đây”.";
+"step_paste" = "Nhấp chuột phải vào vùng trống của thư mục đích và chọn “Dán vào đây”.";
+"open_extension_settings" = "Mở cài đặt tiện ích mở rộng";

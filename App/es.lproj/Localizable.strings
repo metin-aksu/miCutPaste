@@ -1,0 +1,5 @@
+"app_description" = "Añade “Cortar de aquí” y “Pegar aquí” al menú contextual del Finder para mover archivos y carpetas en lugar de copiarlos.";
+"step_enable" = "Activa la extensión miCutPaste en Ajustes del Sistema.";
+"step_cut" = "Haz clic derecho en un archivo o carpeta y elige “Cortar de aquí”.";
+"step_paste" = "Haz clic derecho en un área vacía de la carpeta de destino y elige “Pegar aquí”.";
+"open_extension_settings" = "Abrir ajustes de extensiones";

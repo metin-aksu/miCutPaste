@@ -1,0 +1,5 @@
+"app_description" = "Fügt dem Kontextmenü des Finders „Von hier ausschneiden“ und „Hier einsetzen“ hinzu, damit Sie Dateien und Ordner verschieben statt kopieren.";
+"step_enable" = "Aktivieren Sie die miCutPaste-Erweiterung in den Systemeinstellungen.";
+"step_cut" = "Klicken Sie mit der rechten Maustaste auf eine Datei oder einen Ordner und wählen Sie „Von hier ausschneiden“.";
+"step_paste" = "Klicken Sie mit der rechten Maustaste auf einen leeren Bereich des Zielordners und wählen Sie „Hier einsetzen“.";
+"open_extension_settings" = "Erweiterungseinstellungen öffnen";

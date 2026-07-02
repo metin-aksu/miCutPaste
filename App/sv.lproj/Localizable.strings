@@ -1,0 +1,5 @@
+"app_description" = "Lägger till ”Klipp ut härifrån” och ”Klistra in här” i Finders kontextmeny, så att du flyttar filer och mappar i stället för att kopiera dem.";
+"step_enable" = "Aktivera miCutPaste-tillägget i Systeminställningar.";
+"step_cut" = "Högerklicka på en fil eller mapp och välj ”Klipp ut härifrån”.";
+"step_paste" = "Högerklicka på ett tomt område i målmappen och välj ”Klistra in här”.";
+"open_extension_settings" = "Öppna tilläggsinställningar";

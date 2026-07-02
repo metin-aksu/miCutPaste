@@ -1,0 +1,5 @@
+"app_description" = "Přidá do kontextové nabídky Finderu příkazy „Vyjmout odsud“ a „Vložit sem“, takže soubory a složky přesunete místo kopírování.";
+"step_enable" = "Zapněte rozšíření miCutPaste v Nastavení systému.";
+"step_cut" = "Klikněte pravým tlačítkem na soubor nebo složku a vyberte „Vyjmout odsud“.";
+"step_paste" = "Klikněte pravým tlačítkem na prázdnou plochu cílové složky a vyberte „Vložit sem“.";
+"open_extension_settings" = "Otevřít nastavení rozšíření";

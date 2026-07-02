@@ -1,0 +1,7 @@
+"app_description" = "Finder'ın sağ tık menüsüne “Buradan Kes” ve “Buraya Yapıştır” seçeneklerini ekler; böylece dosya ve klasörleri kopyalamak yerine taşıyabilirsiniz.";
+
+"step_enable" = "Sistem Ayarları'ndan miCutPaste uzantısını etkinleştirin.";
+"step_cut" = "Bir dosyaya veya klasöre sağ tıklayıp “Buradan Kes”i seçin.";
+"step_paste" = "Hedef klasörde boş alana sağ tıklayıp “Buraya Yapıştır”ı seçin.";
+
+"open_extension_settings" = "Uzantı Ayarlarını Aç";

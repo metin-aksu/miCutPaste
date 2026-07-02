@@ -1,0 +1,5 @@
+"app_description" = "Aggiunge “Taglia da qui” e “Incolla qui” al menu contestuale del Finder, per spostare file e cartelle invece di copiarli.";
+"step_enable" = "Attiva l’estensione miCutPaste in Impostazioni di Sistema.";
+"step_cut" = "Fai clic destro su un file o una cartella e scegli “Taglia da qui”.";
+"step_paste" = "Fai clic destro su un’area vuota della cartella di destinazione e scegli “Incolla qui”.";
+"open_extension_settings" = "Apri impostazioni estensioni";

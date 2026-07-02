@@ -1,0 +1,5 @@
+"app_description" = "Pridá do kontextového menu Findera príkazy „Vystrihnúť odtiaľto“ a „Vložiť sem“, takže súbory a priečinky presuniete namiesto kopírovania.";
+"step_enable" = "Zapnite rozšírenie miCutPaste v Systémových nastaveniach.";
+"step_cut" = "Kliknite pravým tlačidlom na súbor alebo priečinok a vyberte „Vystrihnúť odtiaľto“.";
+"step_paste" = "Kliknite pravým tlačidlom na prázdnu plochu cieľového priečinka a vyberte „Vložiť sem“.";
+"open_extension_settings" = "Otvoriť nastavenia rozšírení";

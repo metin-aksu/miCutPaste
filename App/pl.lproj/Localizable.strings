@@ -1,0 +1,5 @@
+"app_description" = "Dodaje do menu kontekstowego Findera polecenia „Wytnij stąd” i „Wklej tutaj”, aby przenosić pliki i foldery zamiast je kopiować.";
+"step_enable" = "Włącz rozszerzenie miCutPaste w Ustawieniach systemowych.";
+"step_cut" = "Kliknij plik lub folder prawym przyciskiem myszy i wybierz „Wytnij stąd”.";
+"step_paste" = "Kliknij prawym przyciskiem myszy pusty obszar folderu docelowego i wybierz „Wklej tutaj”.";
+"open_extension_settings" = "Otwórz ustawienia rozszerzeń";
